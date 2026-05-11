@@ -40,10 +40,9 @@ The player controls a small cleaning robot trapped inside a laboratory after aft
 
 ## Dummy screen
 
-![Dummy screen](assets/dummy-screen.png)
-
+![Dummy screen](dummy-screen.png)
 ---
 
 ## Class diagram
 
-![Simple class diagram](assets/class-diagram.png)
+![Class diagram](class-diagram.png)
